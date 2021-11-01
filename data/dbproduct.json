@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "My new website",
+      "category": "Lorem ipsum",
+      "Seller": "mario",
+      "id": 1
+    },
+    {
+      "name": "My new website",
+      "category": "Lorem ipsum",
+      "Seller": "mario",
+      "id": 2
+    },
+    {
+      "name": "My new website",
+      "category": "Lorem ipsum",
+      "Seller": "mario",
+      "id": 3
+    }
+  ]
+}
