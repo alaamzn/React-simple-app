@@ -56,8 +56,8 @@ const CreateProduct = () => {
                 value={Seller}
                 onChange={((e) => setSeller(e.target.value))}
                 >
-                    <option>Alaa</option>
-                    <option>Fourat</option>
+                    <option>First Seller </option>
+                    <option>Second Seller</option>
                 </select>
                 { !isLoading && <button >Add Product</button>}
                 { isLoading && <button disabled >Adding Product...</button>}
